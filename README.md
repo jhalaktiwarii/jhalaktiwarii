@@ -1,6 +1,6 @@
 
 I’m currently working on building my skills
-I’m currently learning Backend Development - Node & Frontend Web Development - React
+I’m currently learning Solidity
 How to reach me jhalaktiwari6@gmail.com
 Delegate at Startup Mahakumbh 2024 
 Top 10 Innovator of Mumbai 2023
