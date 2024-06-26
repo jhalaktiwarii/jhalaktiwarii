@@ -5,7 +5,7 @@
 <hr>
 <p>
 
-<h1 align="center">Hi 👋, I'm Jhalak Tiwari</h1>
+<h1 align="center">Hi 👋, I'm Jhalak Yashwant Tiwari</h1>
 <h3 align="center">A passionate Software Developer and Learner</h3>
 
 - 🎓 **Final Year Computer Engineering student at Thakur Polytechnic College**.
