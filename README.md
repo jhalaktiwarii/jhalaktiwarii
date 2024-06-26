@@ -11,9 +11,7 @@
 - 🎓 **Final Year Computer Engineering student at Thakur Polytechnic College**.
 - 🔭 I’m currently working on **Machine Learning and Web3**
 - 🌱 I’m currently learning **Blockchain Development**
-- 👯 I’m looking to collaborate on **Open Source and Machine Learning Projects**
 - 📫 How to reach me **jhalaktiwari6@gmail.com**
-- 👨‍💻 Freelancer
 - 🥇 Winner of E-Summit IIT Roorkee Quantathon '24.
 - 🥇 Winner of MSLC-VCET Coherence 1.O '24
 - 🥇 Granted with Rs. 1,00,000 by MSInS '24
