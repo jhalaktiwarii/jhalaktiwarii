@@ -16,7 +16,6 @@
 - 🥇 Winner of MSLC-VCET Coherence 1.O '24
 - 🥇 Granted with Rs. 1,00,000 by MSInS '24
 - 🥇 AIR-9 at E-Summit IIT Roorkee Mind the Product '24
-- 🥇 Winner of LOC 6.0 '24
 - 🥇 Finalist in Productathon Hackathon at IIT Roorkee '24
 - 🥇 Accorded as Top-30 Ideas at Solana Hacker House '23
 - 🥇 Accorded as Top 10 Innovator at Mumbai District '23
